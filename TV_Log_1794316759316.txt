@@ -1,0 +1,1 @@
+[Sistem] TV Diagnostic Tool v3.3 Siap. Sambungkan modul USB-TTL (OTG di Android / PC), lalu klik 'Connect'.
